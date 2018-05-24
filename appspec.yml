@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /DeployedData/*
+  - source: /DeployedData/
     destination: /var/www/html/
   
 
