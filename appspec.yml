@@ -1,9 +1,9 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
-    destination: /var/www/html
-  - source: /style.css    
+  - source: /DeployedData/index.html
+    destination: /var/www/html/
+  - source: /DeployedData/style.css   
     destination: /var/www/html/
 
 
